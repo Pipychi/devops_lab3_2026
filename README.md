@@ -1,2 +1,1 @@
-Hello!!!
-Hello, Local
+Hello, Local and cool guys!!!
